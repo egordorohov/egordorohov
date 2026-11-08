@@ -84,11 +84,6 @@ not guessed.
   attachments included.
 - **Bots and Mini Apps** — a Telegram-style bot platform (webhooks, inline keyboards,
   scoped tokens) hosting a schedule bot, a card game, and a couple of in-house tools.
-- **A Telegram gift-number sniping bot** — one monolithic Python file (thousands of
-  lines, everything handled by hand: multi-account management, scheduled jobs,
-  monitoring, an admin panel) that watches Telegram's collectible gifts and grabs
-  ones with a good number the moment they're mintable — think `PlushPepe-67`. Caught
-  around 20 of them so far, worth roughly 5000 TON.
 
 ### Activity
 
